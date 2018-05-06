@@ -1,0 +1,39 @@
+NFS Carbon Wingman
+v2.0
+------------------------------------------------------------------------------------------------------------
+Description:
+
+This mod brings you some new crew stuff!
+- Select any character in game as your wingman! (Wolf will be your new wingman.)
+- Select a role, which will apply to every character! (Neville can be a scout!)
+- Change your wingman's role, while in a race! (Press U key to switch between roles.)
+- Give them a custom name you want! (Is MAYONNAISE a crew member!?)
+- Buy them some preset cars! (A legend says M3GTRCAREERSTART will make them faster.)
+- And more! Don't forget to take a look at "NFSCWingmanSettings.ini" file.
+
+------------------------------------------------------------------------------------------------------------
+Installation:
+
+NOTE: Make sure you can use NFSC Extra Options. This little script wants the same things with it.
+
+1) Copy "NFSCWingman.asi" and "NFSCWingmanSettings.ini" to your NFSC\scripts folder.
+2) Change the values in "NFSCWingmanSettings.ini" as you like!
+3) Run NFSC.
+4) Enjoy!
+
+! IMPORTANT: READ THE INI FILE COMPLETELY BEFORE DOING ANYTHING.
+
+------------------------------------------------------------------------------------------------------------
+Changelog:
+
+v2.0.0.1337 (Build 2; Rev.01):
++ Added a hotkey to change the role of your wingmen while in a race.
++ Added an option to force select a name for your wingmen.
++ Added an option to force select a preset car for your wingmen.
+
+v1.0.0.1337 (Build 1; Rev.01):
++ Initial release.
+
+------------------------------------------------------------------------------------------------------------
+See ya!
+©2018 nlgzrgn - No rights reserved. ;)
